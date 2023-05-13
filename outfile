@@ -1,0 +1,977 @@
+easonForLeaving 32768
+[648523.450341]: 648523.450340 wlan0.A[939837] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648523.450359]: 648523.450359 wlan0.A[939838] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648523.450402]: 648523.450402 wlan0.A[939839] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648523.450413]: 648523.450413 wlan0.A[939840] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648523.744812]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648523.744840]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648523.744851]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:unknown and force:NO, AWDL-restore:No
+[648523.744857]: com.apple.p2p: monitorAWDLState Moving to LP from Long Discovery 
+[648523.744863]: com.apple.p2p: setScheduleState[9592]: reason:IdleTimeout sc:Low Power and force:NO, AWDL-restore:No
+[648523.745085]: com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648523.761739]: 648523.761738 wlan0.A[939841] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648523.761773]: 648523.761773 wlan0.A[939842] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648523.761846]: 648523.761846 wlan0.A[939843] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648523.761876]: 648523.761875 wlan0.A[939844] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648523.761911]: 648523.761911 wlan0.A[939845] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648523.761925]: 648523.761925 wlan0.A[939846] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648523.950297]: 648523.950296 wlan0.A[939847] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648523.950355]: 648523.950355 wlan0.A[939848] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648523.950455]: 648523.950455 wlan0.A[939849] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648523.950468]: 648523.950467 wlan0.A[939850] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648523.950507]: 648523.950507 wlan0.A[939851] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648523.950518]: 648523.950518 wlan0.A[939852] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.025841]: 648524.025840 wlan0.A[939853] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.025869]: 648524.025868 wlan0.A[939854] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.025939]: 648524.025938 wlan0.A[939855] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.025950]: 648524.025950 wlan0.A[939856] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.025994]: 648524.025994 wlan0.A[939857] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.026009]: 648524.026009 wlan0.A[939858] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.042333]: LQM-WIFI: WeightAvgLQM rssi=-42 snr=35 txRate=869315 rxRate=1200950
+
+[648524.050658]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:543115
+[648524.115594]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63173.192ms HC 0 met 510 my met 510	
+[648524.115632]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8077 HC:0 RMet:510 SLFC:8077 SMet:510] 
+[648524.182550]: 648524.182549 wlan0.A[939859] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.182589]: 648524.182589 wlan0.A[939860] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.182662]: 648524.182662 wlan0.A[939861] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648524.182677]: 648524.182676 wlan0.A[939862] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648524.182730]: 648524.182730 wlan0.A[939863] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.182742]: 648524.182742 wlan0.A[939864] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.368137]: 648524.368136 wlan0.A[939865] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648524.368175]: 648524.368175 wlan0.A[939866] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648524.368251]: 648524.368251 wlan0.A[939867] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648524.368264]: 648524.368264 wlan0.A[939868] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648524.368303]: 648524.368303 wlan0.A[939869] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.368316]: 648524.368315 wlan0.A[939870] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.486921]: LQM-WIFI-PHY: Version = 3 , ChanSpec  36 5 80MHz l, slice=0 phyWdg=1208 noiseReq=46290 noiseCrsbit=9007 noiseApply=12504 calCnt=3106 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=91 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648524.486951]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=34573
+[648524.486962]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x16d0 preemptStatus2=0x31cc preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=5 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648524.486972]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec  44 5 80MHz l, slice=0 phyWdg=26813 noiseReq=3597 noiseCrsbit=3230 noiseApply=2249 calCnt=135 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=91 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648524.486986]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=6143
+[648524.486995]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x75e0 preemptStatus2=0x13de preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=5 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648524.487003]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec   6 2 20MHz n, slice=1 phyWdg=26774 noiseReq=26805 noiseCrsbit=665 noiseApply=683 calCnt=157 crsminPwrIdx=13 featureflag=0x00e0 chanSwitchCnt=0 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648524.487016]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=0 gbdOfdmSleepCnt=0 homeChan=0x6 deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=730
+[648524.487025]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 weakestRssi=0 edThreshold=-64 edCrsStatus=0x0000 preemptStatus1=0x8bd0 preemptStatus2=0x0db0 preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=17 bphyGlitch=17 badplcp=0 bphyBadplcp=0
+[648524.487033]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ccaDurMS=1000 ccaEdDuration=6 crsminPwr0=-88 noiseLevelInst0=-89 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI: (HighBand)  rxNotPrimary20s=46 ucodeLateDrop=0 rxInvalidUcodeLateWrongMACPHY=0 rxLate30us=0 rxLegacyFrmInvalid=0 txSifsErr=0 ooseqMacSusp=0
+[648524.498241]: LQM-WIFI: Stats9: btDur=78ms(1%) status=0x105 reqTypeMap=0xb01060 req=176 gnt=92 abort=13 rx1ovfl=0 latency=4 pmAttempt=0 sucPM=0 sucCTS2S=0 wlanTXPreempt=275 wlanRXPreempt=0 apTXafterPM=0 gntAudio=0 denyAudio=0 gntA2DP=0 denyA2DP=0
+
+[648524.498252]: LQM-WIFI: Stats9: CrtPriCnt=140 PriCnt=7 gntSniff=16 denySniff=19 antGrant0~10ms=207 antGrant10~30ms=0 antGrant30~60ms=0 antGrant>60ms=0 APLeakiness=0 rr_cnt=0 rr_succ_cnt=0 [5000ms]
+
+[648524.528965]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[648524.580537]: 648524.580535 wlan0.A[939871] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648524.580569]: 648524.580569 wlan0.A[939872] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648524.580639]: 648524.580638 wlan0.A[939873] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.580651]: 648524.580651 wlan0.A[939874] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.580702]: 648524.580702 wlan0.A[939875] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648524.580713]: 648524.580713 wlan0.A[939876] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648524.746341]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648524.746366]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648524.746377]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648524.746385]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648524.777250]: 648524.777250 wlan0.A[939877] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.777286]: 648524.777286 wlan0.A[939878] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.777344]: 648524.777344 wlan0.A[939879] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.777353]: 648524.777353 wlan0.A[939880] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.777372]: 648524.777372 wlan0.A[939881] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648524.777378]: 648524.777377 wlan0.A[939882] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648524.853211]: connect() - failed necp_set_socket_domain_attributes648524.981716 wlan0.A[939883] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.981769]: 648524.981769 wlan0.A[939884] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648524.981863]: 648524.981863 wlan0.A[939885] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648524.981879]: 648524.981879 wlan0.A[939886] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648524.981919]: 648524.981919 wlan0.A[939887] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648524.981931]: 648524.981931 wlan0.A[939888] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.098266]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:544163
+[648525.170545]: 648525.170545 wlan0.A[939889] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648525.170594]: 648525.170594 wlan0.A[939890] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648525.170689]: 648525.170689 wlan0.A[939891] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648525.170703]: 648525.170703 wlan0.A[939892] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648525.170743]: 648525.170743 wlan0.A[939893] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648525.170765]: 648525.170765 wlan0.A[939894] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648525.366626]: 648525.366625 wlan0.A[939895] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648525.366672]: 648525.366672 wlan0.A[939896] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.366763]: 648525.366763 wlan0.A[939897] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648525.366778]: 648525.366778 wlan0.A[939898] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648525.366816]: 648525.366816 wlan0.A[939899] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648525.366827]: 648525.366827 wlan0.A[939900] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.484677]: 648525.484677 wlan0.A[939901] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648525.484735]: 648525.484735 wlan0.A[939902] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648525.484831]: 648525.484831 wlan0.A[939903] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648525.484846]: 648525.484846 wlan0.A[939904] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.484887]: 648525.484887 wlan0.A[939905] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648525.484898]: 648525.484898 wlan0.A[939906] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648525.552376]: LQM-WIFI:  (HighBand) rxToss=0 rxLastTossRsn=0 rxNoFrag=0 rxNoCmplId=0 rxNoHaddr=0 rxMulti=0 rxUndec=0
+
+[648525.552395]: LQM-WIFI:  (HighBand) rxCrsGlitch=36 rxBphyCrsGlitch=0 rxStart=367 rxBadPLCP=0 rxBphyBadPLCP=0 rxBadFCS=4 rxFifo0Ovfl=0 rxFifo1Ovfl=0 rx_nobuf=0 rxAnyErr=51 rxResponseTimeout=0 rxNoDelim=5 rxFrmTooLong=0 rxFrmTooShort=0
+
+[648525.552407]: LQM-WIFI: (HighBand) txRTSFrm=24 txRTSFail=0 rxCTSUcast=24 rxRTSUcast=31 txCTSFrm=31 txAMPDU=25 rxBACK=25 txPhyError=0 txAllFrm=258 txMPDU=0 txUcast=101 rxACKUcast=76 OfdmDesense 0 dB
+
+[648525.552416]: LQM-WIFI: (HighBand) rxBeaconMbss=34 rxBeaconObss=0 rxDataUcastMbss=33 rxMgmtUcastMbss=0 rxCNTRLUcast=156 txACKFrm=0 txBACK=30 ctxFifoFull=0 ctxFifo2Full=0 rxDataMcast=0 rxMgmtMcast=34
+
+[648525.552425]: LQM-WIFI: RX AMPDU (HighBand) rxAmpdu=30 txBACK(Ucode)=30 rxMpduInAmpdu=33 rxholes=0 rxdup=0 rxstuck=0 rxoow=0 rxoos=0 rxaddbareq=0 txaddbaresp=0 rxbar=0 txdelba=0 rxdelba=0 rxQueued=0 rxRetryNoBA=0
+
+[648525.552474]: LQM-WIFI: WME RX MPDUs (rxPER 0 %) in tids 0:32, 1:0, 2:0, 3:0, 4:0, 5:0, 6:1, 7:0
+
+[648525.557460]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(79 %) / 26(2 %) / 41(5 %) / 180(12 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+
+[648525.557495]: LQM-WIFI-CT: rssi=-41(-41 -43) snr=35 bcn=34(49) txFrames=32 txRetry=2 txRate=907360 rxFrames=36 rxRetry=3 rxRate=1200950 rxToss=0
+[648525.690932]: 648525.690931 wlan0.A[939907] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648525.690994]: 648525.690994 wlan0.A[939908] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.691085]: 648525.691084 wlan0.A[939909] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648525.691098]: 648525.691098 wlan0.A[939910] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648525.691139]: 648525.691139 wlan0.A[939911] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648525.691151]: 648525.691151 wlan0.A[939912] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648525.747483]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648525.747504]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648525.747513]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648525.747519]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648525.747542]: com.apple.p2p: AWDLStateDump: AWDL up time: 546 Secs, B6:80:AB:97:3C:E9 peers:1, cached:0(0), rtg(0), <SDB: TP-Link_1F04_5G:(D8:07:B6:47:1F:02)  36, infraRT:No, country:JP>
+[648525.747556]: com.apple.p2p: AWDLStateDump: Services[Valid 2 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:2 ]
+[648525.747565]: com.apple.p2p: AWDLStateDump: AirPlay:0 AirPlayToHT:0 AirPlayOverInfra:0 SideCar:0 SideCarSender:0 SideCarPeer:0 TimeSync:0 HighThroughput:0
+[648525.747571]: com.apple.p2p: AWDLStateDump: AWDL enabled with no data connection from 235 seconds  com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648525.747596]: com.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648525.747602]: com.apple.p2p.stats: AFSPerSlot : [0 0 0 0] [0 0 0 0] [0 0 0 0] [0 0 0 0]
+[648525.747606]: com.apple.p2p.stats: AFsPerSignal (batchSize -1) : 0 <= 1, 0 <= 10, 0 <= 30, 0 <= 50, 0 <= 100, 0 > 100
+[648525.747611]: com.apple.p2p.stats: TimePerSignal : 0 < 250uSec, 0 250-500uSec, 0 500-1000uSec, 0 1000-2000uSec, 0 > 2000uSeccom.apple.p2p.stats: TimePerAF : 0 < 100uSec, 0 100-250uSec, 0 250-500uSec, 0 500-1000uSec, 0 > 1000uSeccom.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648525.747639]: com.apple.wifi: LQM-WiFi:AWDL State #14 Low Power(4)  DutyCycle 34  StateDuration 8lu.013s[63163.807 - 63171.820]   StateComplete  1
+[648525.747645]: com.apple.wifi: LQM-WiFi:AWDL State #15 unknown(50)  DutyCycle 76  StateDuration 1lu.001s[63171.820 - 63172.822]   StateComplete  1
+[648525.747651]: com.apple.wifi: LQM-WiFi:AWDL State #16 Low Power(4)  DutyCycle 34  StateDuration 2lu.002s[63172.822 - 0.000]   StateComplete  0
+[648525.747657]: com.apple.wifi: LQM-WiFi:AWDL Active Time 2121ms(42%) 5.008s[63169.816s - 63174.824s]
+[648525.837549]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<38 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648525.837577]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<2 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648525.837589]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648525.837598]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<1 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648525.837679]: LQM-WIFI: L3 Control VO TX(D8:07:B6:47:1F:02) Success=1 NoACK=0 Expired=0 OtherErr=0
+[648525.837704]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648525.837718]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648525.837729]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648525.837739]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648526.006707]: 648526.006706 wlan0.A[939913] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648526.006760]: 648526.006760 wlan0.A[939914] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648526.006856]: 648526.006856 wlan0.A[939915] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648526.006869]: 648526.006869 wlan0.A[939916] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648526.006906]: 648526.006906 wlan0.A[939917] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.006917]: 648526.006917 wlan0.A[939918] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.150695]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:545215
+[648526.150855]: 648526.150854 wlan0.A[939919] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648526.150890]: 648526.150890 wlan0.A[939920] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648526.150977]: 648526.150976 wlan0.A[939921] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.150990]: 648526.150990 wlan0.A[939922] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.151033]: 648526.151033 wlan0.A[939923] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648526.151046]: 648526.151045 wlan0.A[939924] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648526.350805]: 648526.350803 wlan0.A[939925] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648526.350850]: 648526.350850 wlan0.A[939926] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648526.350929]: 648526.350929 wlan0.A[939927] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648526.350944]: 648526.350944 wlan0.A[939928] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648526.350981]: 648526.350981 wlan0.A[939929] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.350993]: 648526.350993 wlan0.A[939930] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.510398]: 648526.510397 wlan0.A[939931] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648526.510442]: 648526.510442 wlan0.A[939932] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648526.510524]: 648526.510523 wlan0.A[939933] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.510538]: 648526.510538 wlan0.A[939934] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.510577]: 648526.510577 wlan0.A[939935] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648526.510591]: 648526.510591 wlan0.A[939936] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648526.620373]: 648526.620372 wlan0.A[939937] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.620410]: 648526.620410 wlan0.A[939938] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.620484]: 648526.620484 wlan0.A[939939] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648526.620500]: 648526.620500 wlan0.A[939940] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648526.620540]: 648526.620540 wlan0.A[939941] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648526.620551]: 648526.620551 wlan0.A[939942] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648526.748875]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648526.748899]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648526.748909]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648526.748916]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648527.022417]: 648527.022417 wlan0.A[939943] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648527.022459]: 648527.022458 wlan0.A[939944] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648527.022551]: 648527.022551 wlan0.A[939945] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.022565]: 648527.022565 wlan0.A[939946] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.022606]: 648527.022606 wlan0.A[939947] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648527.022620]: 648527.022620 wlan0.A[939948] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648527.132882]: 648527.132880 wlan0.A[939949] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.132917]: 648527.132917 wlan0.A[939950] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.132999]: 648527.132999 wlan0.A[939951] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648527.133013]: 648527.133013 wlan0.A[939952] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648527.133050]: 648527.133050 wlan0.A[939953] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.133061]: 648527.133061 wlan0.A[939954] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.195360]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:546260
+[648527.267698]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63176.344ms HC 0 met 510 my met 510	
+[648527.267732]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8078 HC:0 RMet:510 SLFC:8078 SMet:510] 
+[648527.291204]: 648527.291203 wlan0.A[939955] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648527.291236]: 648527.291236 wlan0.A[939956] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648527.291313]: 648527.291313 wlan0.A[939957] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.291326]: 648527.291326 wlan0.A[939958] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.291364]: 648527.291364 wlan0.A[939959] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648527.291375]: 648527.291375 wlan0.A[939960] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648527.400022]: 648527.400021 wlan0.A[939961] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.400062]: 648527.400062 wlan0.A[939962] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.400141]: 648527.400141 wlan0.A[939963] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648527.400155]: 648527.400155 wlan0.A[939964] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648527.400191]: 648527.400191 wlan0.A[939965] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648527.400205]: 648527.400205 wlan0.A[939966] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648527.636630]: 648527.636629 wlan0.A[939967] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648527.636668]: 648527.636668 wlan0.A[939968] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648527.636750]: 648527.636750 wlan0.A[939969] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.636764]: 648527.636764 wlan0.A[939970] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.636818]: 648527.636818 wlan0.A[939971] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648527.636829]: 648527.636829 wlan0.A[939972] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648527.747883]: 648527.747882 wlan0.A[939973] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.747912]: 648527.747912 wlan0.A[939974] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.747976]: 648527.747976 wlan0.A[939975] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648527.747989]: 648527.747989 wlan0.A[939976] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648527.748025]: 648527.748025 wlan0.A[939977] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648527.748036]: 648527.748036 wlan0.A[939978] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648527.753335]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648527.753355]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648527.753364]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648527.753371]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648527.924850]: compat_ifmu_ulist: anpi1 copyin() error 14compat_ifmu_ulist: anpi0 copyin() error 14compat_ifmu_ulist: en3 copyin() error 14compat_ifmu_ulist: en4 copyin() error 14compat_ifmu_ulist: en1 copyin() error 14compat_ifmu_ulist: en2 copyin() error 14compat_ifmu_ulist: ap1 copyin() error 14compat_ifmu_ulist: en0 copyin() error 14compat_ifmu_ulist: awdl0 copyin() error 14compat_ifmu_ulist: llw0 copyin() error 14compat_ifmu_ulist: anpi1 copyin() error 14compat_ifmu_ulist: anpi0 copyin() error 14compat_ifmu_ulist: en3 copyin() error 14compat_ifmu_ulist: en4 copyin() error 14compat_ifmu_ulist: en1 copyin() error 14compat_ifmu_ulist: en2 copyin() error 14compat_ifmu_ulist: ap1 copyin() error 14compat_ifmu_ulist: en0 copyin() error 14compat_ifmu_ulist: awdl0 copyin() error 14compat_ifmu_ulist: llw0 copyin() error 14648528.046253 wlan0.A[939979] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.046293]: 648528.046293 wlan0.A[939980] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.046377]: 648528.046377 wlan0.A[939981] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648528.046390]: 648528.046390 wlan0.A[939982] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648528.046442]: 648528.046442 wlan0.A[939983] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.046453]: 648528.046453 wlan0.A[939984] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.162529]: 648528.162528 wlan0.A[939985] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.162575]: 648528.162575 wlan0.A[939986] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.162656]: 648528.162656 wlan0.A[939987] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648528.162671]: 648528.162671 wlan0.A[939988] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648528.162710]: 648528.162710 wlan0.A[939989] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.162726]: 648528.162726 wlan0.A[939990] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.244638]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:547309
+[648528.244747]: 648528.244746 wlan0.A[939991] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.244768]: 648528.244768 wlan0.A[939992] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.244831]: 648528.244831 wlan0.A[939993] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.244845]: 648528.244845 wlan0.A[939994] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.244883]: 648528.244883 wlan0.A[939995] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.244897]: 648528.244897 wlan0.A[939996] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.446821]: 648528.446820 wlan0.A[939997] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648528.446860]: 648528.446860 wlan0.A[939998] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648528.446936]: 648528.446936 wlan0.A[939999] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.446950]: 648528.446950 wlan0.A[940000] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.446989]: 648528.446989 wlan0.A[940001] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648528.447002]: 648528.447002 wlan0.A[940002] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648528.660655]: 648528.660654 wlan0.A[940003] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.660702]: 648528.660702 wlan0.A[940004] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.660792]: 648528.660792 wlan0.A[940005] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.660808]: 648528.660808 wlan0.A[940006] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.660846]: 648528.660846 wlan0.A[940007] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.660856]: 648528.660856 wlan0.A[940008] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.754589]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648528.754606]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648528.754616]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648528.754624]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648528.772013]: 648528.772013 wlan0.A[940009] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.772040]: 648528.772040 wlan0.A[940010] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.772107]: 648528.772107 wlan0.A[940011] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648528.772119]: 648528.772119 wlan0.A[940012] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648528.772161]: 648528.772161 wlan0.A[940013] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648528.772174]: 648528.772173 wlan0.A[940014] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648528.992264]: 648528.992263 wlan0.A[940015] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.992305]: 648528.992305 wlan0.A[940016] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648528.992383]: 648528.992382 wlan0.A[940017] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648528.992402]: 648528.992402 wlan0.A[940018] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648528.992443]: 648528.992443 wlan0.A[940019] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648528.992458]: 648528.992458 wlan0.A[940020] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648529.059772]: LQM-WIFI: WeightAvgLQM rssi=-41 snr=34 txRate=960730 rxRate=1200950
+
+[648529.180797]: 648529.180796 wlan0.A[940021] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648529.180835]: 648529.180835 wlan0.A[940022] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648529.180913]: 648529.180913 wlan0.A[940023] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648529.180925]: 648529.180925 wlan0.A[940024] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648529.180979]: 648529.180979 wlan0.A[940025] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648529.180989]: 648529.180989 wlan0.A[940026] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648529.292440]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:548357
+[648529.427293]: 648529.427287 wlan0.A[940027] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648529.427327]: 648529.427327 wlan0.A[940028] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648529.427407]: 648529.427406 wlan0.A[940029] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648529.427423]: 648529.427423 wlan0.A[940030] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648529.427464]: 648529.427464 wlan0.A[940031] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648529.427477]: 648529.427477 wlan0.A[940032] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648529.496291]: LQM-WIFI-PHY: Version = 3 , ChanSpec  36 5 80MHz l, slice=0 phyWdg=1213 noiseReq=46329 noiseCrsbit=9007 noiseApply=12543 calCnt=3106 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=171 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648529.496315]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=34652
+[648529.496325]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x1980 preemptStatus2=0x31cc preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=3 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648529.496335]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec  44 5 80MHz l, slice=0 phyWdg=26818 noiseReq=3637 noiseCrsbit=3230 noiseApply=2288 calCnt=135 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=171 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648529.496349]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=6222
+[648529.496357]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x7880 preemptStatus2=0x13de preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=3 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648529.496366]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec   6 2 20MHz n, slice=1 phyWdg=26779 noiseReq=26810 noiseCrsbit=665 noiseApply=683 calCnt=157 crsminPwrIdx=13 featureflag=0x00e0 chanSwitchCnt=0 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648529.496380]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=0 gbdOfdmSleepCnt=0 homeChan=0x6 deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=730
+[648529.496388]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 weakestRssi=0 edThreshold=-64 edCrsStatus=0x0000 preemptStatus1=0x8c20 preemptStatus2=0x0db0 preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=14 bphyGlitch=13 badplcp=0 bphyBadplcp=0
+[648529.496396]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ccaDurMS=1000 ccaEdDuration=6 crsminPwr0=-88 noiseLevelInst0=-87 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI: (HighBand)  rxNotPrimary20s=42 ucodeLateDrop=0 rxInvalidUcodeLateWrongMACPHY=0 rxLate30us=0 rxLegacyFrmInvalid=0 txSifsErr=0 ooseqMacSusp=0
+[648529.509423]: LQM-WIFI: Stats9: btDur=74ms(1%) status=0x105 reqTypeMap=0xb01060 req=138 gnt=69 abort=6 rx1ovfl=0 latency=3 pmAttempt=0 sucPM=0 sucCTS2S=0 wlanTXPreempt=0 wlanRXPreempt=0 apTXafterPM=0 gntAudio=0 denyAudio=0 gntA2DP=0 denyA2DP=0
+
+[648529.509436]: LQM-WIFI: Stats9: CrtPriCnt=147 PriCnt=3 gntSniff=11 denySniff=11 antGrant0~10ms=178 antGrant10~30ms=0 antGrant30~60ms=0 antGrant>60ms=0 APLeakiness=0 rr_cnt=0 rr_succ_cnt=0 [5011ms]
+
+[648529.529651]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[648529.555741]: 648529.555741 wlan0.A[940033] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648529.555777]: 648529.555777 wlan0.A[940034] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648529.555865]: 648529.555864 wlan0.A[940035] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648529.555876]: 648529.555876 wlan0.A[940036] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648529.555911]: 648529.555911 wlan0.A[940037] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648529.555925]: 648529.555924 wlan0.A[940038] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648529.755889]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648529.755913]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648529.755924]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648529.755934]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648529.787251]: 648529.787249 wlan0.A[940039] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648529.787291]: 648529.787291 wlan0.A[940040] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648529.787375]: 648529.787375 wlan0.A[940041] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648529.787387]: 648529.787387 wlan0.A[940042] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648529.787432]: 648529.787432 wlan0.A[940043] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648529.787444]: 648529.787444 wlan0.A[940044] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648530.020040]: 648530.020039 wlan0.A[940045] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.020080]: 648530.020080 wlan0.A[940046] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.020156]: 648530.020156 wlan0.A[940047] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.020169]: 648530.020169 wlan0.A[940048] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.020210]: 648530.020210 wlan0.A[940049] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648530.020223]: 648530.020223 wlan0.A[940050] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648530.299131]: 648530.299130 wlan0.A[940051] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.299183]: 648530.299183 wlan0.A[940052] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.299281]: 648530.299281 wlan0.A[940053] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.299295]: 648530.299294 wlan0.A[940054] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.299354]: 648530.299354 wlan0.A[940055] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648530.299366]: 648530.299366 wlan0.A[940056] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648530.357400]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:549422
+[648530.413366]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63179.490ms HC 0 met 510 my met 510	
+[648530.413401]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8079 HC:0 RMet:510 SLFC:8079 SMet:510] 
+[648530.413498]: 648530.413496 wlan0.A[940057] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.413526]: 648530.413526 wlan0.A[940058] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.413598]: 648530.413598 wlan0.A[940059] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.413610]: 648530.413610 wlan0.A[940060] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.413648]: 648530.413648 wlan0.A[940061] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.413659]: 648530.413659 wlan0.A[940062] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.566745]: 648530.566744 wlan0.A[940063] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.566803]: 648530.566803 wlan0.A[940064] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.566872]: 648530.566872 wlan0.A[940065] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.566884]: 648530.566884 wlan0.A[940066] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.566917]: 648530.566917 wlan0.A[940067] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.566927]: 648530.566927 wlan0.A[940068] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.574981]: LQM-WIFI:  (HighBand) rxToss=0 rxLastTossRsn=0 rxNoFrag=0 rxNoCmplId=0 rxNoHaddr=0 rxMulti=4 rxUndec=0
+
+[648530.575004]: LQM-WIFI:  (HighBand) rxCrsGlitch=33 rxBphyCrsGlitch=0 rxStart=300 rxBadPLCP=0 rxBphyBadPLCP=0 rxBadFCS=1 rxFifo0Ovfl=0 rxFifo1Ovfl=0 rx_nobuf=0 rxAnyErr=44 rxResponseTimeout=2 rxNoDelim=2 rxFrmTooLong=0 rxFrmTooShort=0
+
+[648530.575014]: LQM-WIFI: (HighBand) txRTSFrm=25 txRTSFail=0 rxCTSUcast=25 rxRTSUcast=21 txCTSFrm=21 txAMPDU=25 rxBACK=23 txPhyError=0 txAllFrm=227 txMPDU=0 txUcast=95 rxACKUcast=70 OfdmDesense 0 dB
+
+[648530.575022]: LQM-WIFI: (HighBand) rxBeaconMbss=32 rxBeaconObss=0 rxDataUcastMbss=24 rxMgmtUcastMbss=0 rxCNTRLUcast=139 txACKFrm=0 txBACK=22 ctxFifoFull=0 ctxFifo2Full=0 rxDataMcast=4 rxMgmtMcast=32
+
+[648530.575032]: LQM-WIFI: RX AMPDU (HighBand) rxAmpdu=22 txBACK(Ucode)=22 rxMpduInAmpdu=24 rxholes=0 rxdup=0 rxstuck=0 rxoow=0 rxoos=0 rxaddbareq=0 txaddbaresp=0 rxbar=0 txdelba=0 rxdelba=0 rxQueued=0 rxRetryNoBA=0
+
+[648530.575060]: LQM-WIFI: WME RX MPDUs (rxPER 0 %) in tids 0:28, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0
+
+[648530.579991]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(88 %) / 26(4 %) / 74(8 %) / 0(0 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+
+[648530.580029]: LQM-WIFI-CT: rssi=-40(-40 -44) snr=35 bcn=32(49) txFrames=22 txRetry=0 txRate=960730 rxFrames=26 rxRetry=1 rxRate=1200950 rxToss=0
+[648530.716928]: 648530.716927 wlan0.A[940069] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.716967]: 648530.716967 wlan0.A[940070] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.717045]: 648530.717045 wlan0.A[940071] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648530.717060]: 648530.717060 wlan0.A[940072] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648530.717099]: 648530.717098 wlan0.A[940073] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.717111]: 648530.717111 wlan0.A[940074] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.757186]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648530.757204]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648530.757214]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648530.757222]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648530.757249]: com.apple.p2p: AWDLStateDump: AWDL up time: 551 Secs, B6:80:AB:97:3C:E9 peers:1, cached:0(0), rtg(0), <SDB: TP-Link_1F04_5G:(D8:07:B6:47:1F:02)  36, infraRT:No, country:JP>
+[648530.757263]: com.apple.p2p: AWDLStateDump: Services[Valid 2 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:2 ]
+[648530.757272]: com.apple.p2p: AWDLStateDump: AirPlay:0 AirPlayToHT:0 AirPlayOverInfra:0 SideCar:0 SideCarSender:0 SideCarPeer:0 TimeSync:0 HighThroughput:0
+[648530.757277]: com.apple.p2p: AWDLStateDump: AWDL enabled with no data connection from 240 seconds  com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648530.757296]: com.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648530.757302]: com.apple.p2p.stats: AFSPerSlot : [0 0 0 0] [0 0 0 0] [0 0 0 0] [0 0 0 0]
+[648530.757307]: com.apple.p2p.stats: AFsPerSignal (batchSize -1) : 0 <= 1, 0 <= 10, 0 <= 30, 0 <= 50, 0 <= 100, 0 > 100
+[648530.757312]: com.apple.p2p.stats: TimePerSignal : 0 < 250uSec, 0 250-500uSec, 0 500-1000uSec, 0 1000-2000uSec, 0 > 2000uSeccom.apple.p2p.stats: TimePerAF : 0 < 100uSec, 0 100-250uSec, 0 250-500uSec, 0 500-1000uSec, 0 > 1000uSeccom.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648530.757335]: com.apple.wifi: LQM-WiFi:AWDL State #16 Low Power(4)  DutyCycle 34  StateDuration 7lu.012s[63172.822 - 0.000]   StateComplete  0
+[648530.757342]: com.apple.wifi: LQM-WiFi:AWDL Active Time 1703ms(33%) 5.009s[63174.824s - 63179.834s]
+[648530.838810]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<22 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648530.838838]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648530.838847]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648530.838855]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648530.838905]: LQM-WIFI: L3 Control VO TX(D8:07:B6:47:1F:02) Success=0 NoACK=0 Expired=0 OtherErr=0
+[648530.838916]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+[648530.838928]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+[648530.838938]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+[648530.838948]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+[648530.914413]: 648530.914412 wlan0.A[940075] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648530.914446]: 648530.914446 wlan0.A[940076] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648530.914524]: 648530.914524 wlan0.A[940077] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648530.914538]: 648530.914538 wlan0.A[940078] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648530.914579]: 648530.914579 wlan0.A[940079] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648530.914591]: 648530.914591 wlan0.A[940080] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648531.138228]: 648531.138227 wlan0.A[940081] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.138274]: 648531.138274 wlan0.A[940082] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.138367]: 648531.138366 wlan0.A[940083] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.138381]: 648531.138381 wlan0.A[940084] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648531.138421]: 648531.138421 wlan0.A[940085] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.138436]: 648531.138435 wlan0.A[940086] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.355937]: 648531.355936 wlan0.A[940087] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648531.355991]: 648531.355991 wlan0.A[940088] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648531.356085]: 648531.356085 wlan0.A[940089] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.356111]: 648531.356111 wlan0.A[940090] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.356157]: 648531.356157 wlan0.A[940091] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.356168]: 648531.356168 wlan0.A[940092] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648531.390996]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:550455
+[648531.463141]: 648531.463141 wlan0.A[940093] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.463180]: 648531.463180 wlan0.A[940094] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.463270]: 648531.463270 wlan0.A[940095] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.463284]: 648531.463284 wlan0.A[940096] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648531.463323]: 648531.463323 wlan0.A[940097] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648531.463334]: 648531.463334 wlan0.A[940098] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648531.732809]: 648531.732807 wlan0.A[940099] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.732860]: 648531.732859 wlan0.A[940100] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648531.732950]: 648531.732950 wlan0.A[940101] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648531.732964]: 648531.732964 wlan0.A[940102] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648531.733007]: 648531.733007 wlan0.A[940103] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.733021]: 648531.733020 wlan0.A[940104] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648531.758480]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648531.758496]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648531.758506]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648531.758515]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648531.758519]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:unknown and force:NO, AWDL-restore:No
+[648531.758748]: com.apple.p2p: AWDL ON:[infra(36) 24%] [sdb:0] (6/44/44) [44 44 44 44 44 44 0 0 6 44 44 44 44 44 0 0] unknown
+[648531.843367]: 648531.843366 wlan0.A[940105] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.843402]: 648531.843402 wlan0.A[940106] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.843480]: 648531.843480 wlan0.A[940107] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648531.843493]: 648531.843493 wlan0.A[940108] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648531.843549]: 648531.843549 wlan0.A[940109] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.843565]: 648531.843565 wlan0.A[940110] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.982195]: 648531.982193 wlan0.A[940111] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648531.982233]: 648531.982233 wlan0.A[940112] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648531.982317]: 648531.982317 wlan0.A[940113] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648531.982332]: 648531.982332 wlan0.A[940114] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648531.982370]: 648531.982370 wlan0.A[940115] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648531.982380]: 648531.982380 wlan0.A[940116] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648532.386276]: 648532.386275 wlan0.A[940117] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648532.386319]: 648532.386319 wlan0.A[940118] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648532.386410]: 648532.386410 wlan0.A[940119] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648532.386423]: 648532.386423 wlan0.A[940120] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648532.386463]: 648532.386463 wlan0.A[940121] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648532.386475]: 648532.386475 wlan0.A[940122] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648532.439380]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:551504
+[648532.767066]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648532.767093]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648532.767103]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:unknown and force:NO, AWDL-restore:No
+[648532.767109]: com.apple.p2p: monitorAWDLState Moving to LP from Long Discovery 
+[648532.767115]: com.apple.p2p: setScheduleState[9592]: reason:IdleTimeout sc:Low Power and force:NO, AWDL-restore:No
+[648532.767331]: com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648532.821439]: 648532.821439 wlan0.A[940123] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648532.821491]: 648532.821491 wlan0.A[940124] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648532.821591]: 648532.821591 wlan0.A[940125] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648532.821608]: 648532.821608 wlan0.A[940126] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648532.821662]: 648532.821661 wlan0.A[940127] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648532.821673]: 648532.821673 wlan0.A[940128] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648532.969651]: 648532.969647 wlan0.A[940129] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648532.969686]: 648532.969686 wlan0.A[940130] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648532.969765]: 648532.969765 wlan0.A[940131] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648532.969778]: 648532.969778 wlan0.A[940132] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648532.969816]: 648532.969816 wlan0.A[940133] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648532.969827]: 648532.969827 wlan0.A[940134] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648533.279772]: 648533.279770 wlan0.A[940135] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648533.279816]: 648533.279816 wlan0.A[940136] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648533.279910]: 648533.279910 wlan0.A[940137] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648533.279930]: 648533.279930 wlan0.A[940138] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648533.279975]: 648533.279975 wlan0.A[940139] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648533.279987]: 648533.279987 wlan0.A[940140] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648533.394048]: 648533.394047 wlan0.A[940141] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648533.394085]: 648533.394085 wlan0.A[940142] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648533.394161]: 648533.394161 wlan0.A[940143] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648533.394173]: 648533.394173 wlan0.A[940144] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648533.394216]: 648533.394216 wlan0.A[940145] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648533.394229]: 648533.394229 wlan0.A[940146] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648533.488293]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:552553
+[648533.558976]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63182.636ms HC 0 met 510 my met 510	
+[648533.558995]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8080 HC:0 RMet:510 SLFC:8080 SMet:510] 
+[648533.619698]: 648533.619697 wlan0.A[940147] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648533.619745]: 648533.619745 wlan0.A[940148] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648533.619831]: 648533.619831 wlan0.A[940149] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648533.619843]: 648533.619843 wlan0.A[940150] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648533.619890]: 648533.619890 wlan0.A[940151] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648533.619902]: 648533.619902 wlan0.A[940152] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648533.743881]: 648533.743880 wlan0.A[940153] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648533.743915]: 648533.743915 wlan0.A[940154] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648533.743990]: 648533.743989 wlan0.A[940155] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648533.744002]: 648533.744002 wlan0.A[940156] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648533.744036]: 648533.744036 wlan0.A[940157] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648533.744046]: 648533.744046 wlan0.A[940158] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648533.768682]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648533.768700]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648533.768711]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648533.768718]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648533.985557]: 648533.985555 wlan0.A[940159] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648533.985595]: 648533.985595 wlan0.A[940160] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648533.985671]: 648533.985671 wlan0.A[940161] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648533.985684]: 648533.985684 wlan0.A[940162] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648533.985721]: 648533.985721 wlan0.A[940163] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648533.985732]: 648533.985732 wlan0.A[940164] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648534.214822]: 648534.214821 wlan0.A[940165] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.214868]: 648534.214868 wlan0.A[940166] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.214961]: 648534.214961 wlan0.A[940167] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648534.214976]: 648534.214976 wlan0.A[940168] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648534.215014]: 648534.215014 wlan0.A[940169] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648534.215025]: 648534.215025 wlan0.A[940170] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648534.282555]: LQM-WIFI: WeightAvgLQM rssi=-40 snr=35 txRate=964095 rxRate=1200950
+
+[648534.411340]: 648534.411339 wlan0.A[940171] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648534.411387]: 648534.411387 wlan0.A[940172] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648534.411461]: 648534.411461 wlan0.A[940173] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.411475]: 648534.411475 wlan0.A[940174] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.411514]: 648534.411514 wlan0.A[940175] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648534.411525]: 648534.411525 wlan0.A[940176] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648534.494183]: LQM-WIFI-PHY: Version = 3 , ChanSpec  36 5 80MHz l, slice=0 phyWdg=1218 noiseReq=46364 noiseCrsbit=9007 noiseApply=12578 calCnt=3106 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=243 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648534.494213]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=34723
+[648534.494224]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x1bf0 preemptStatus2=0x31cc preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=8 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648534.494234]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec  44 5 80MHz l, slice=0 phyWdg=26823 noiseReq=3672 noiseCrsbit=3230 noiseApply=2323 calCnt=135 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=243 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648534.494248]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=6293
+[648534.494257]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x7ae0 preemptStatus2=0x13de preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=8 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648534.494265]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec   6 2 20MHz n, slice=1 phyWdg=26784 noiseReq=26815 noiseCrsbit=665 noiseApply=683 calCnt=157 crsminPwrIdx=13 featureflag=0x00e0 chanSwitchCnt=0 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648534.494280]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=0 gbdOfdmSleepCnt=0 homeChan=0x6 deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=730
+[648534.494289]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 weakestRssi=0 edThreshold=-64 edCrsStatus=0x0000 preemptStatus1=0x8c70 preemptStatus2=0x0db0 preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=4 bphyGlitch=1 badplcp=0 bphyBadplcp=0
+[648534.494297]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ccaDurMS=1000 ccaEdDuration=6 crsminPwr0=-88 noiseLevelInst0=-88 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI: (HighBand)  rxNotPrimary20s=49 ucodeLateDrop=0 rxInvalidUcodeLateWrongMACPHY=0 rxLate30us=0 rxLegacyFrmInvalid=0 txSifsErr=0 ooseqMacSusp=0
+[648534.505626]: LQM-WIFI: Stats9: btDur=98ms(1%) status=0x105 reqTypeMap=0xb01060 req=175 gnt=99 abort=3 rx1ovfl=0 latency=4 pmAttempt=0 sucPM=0 sucCTS2S=0 wlanTXPreempt=12 wlanRXPreempt=0 apTXafterPM=0 gntAudio=0 denyAudio=0 gntA2DP=0 denyA2DP=0
+
+[648534.505636]: LQM-WIFI: Stats9: CrtPriCnt=160 PriCnt=8 gntSniff=14 denySniff=19 antGrant0~10ms=219 antGrant10~30ms=0 antGrant30~60ms=0 antGrant>60ms=0 APLeakiness=0 rr_cnt=0 rr_succ_cnt=0 [4996ms]
+
+[648534.530099]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[648534.551514]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:553616
+[648534.607515]: 648534.607514 wlan0.A[940177] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.607546]: 648534.607546 wlan0.A[940178] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.607619]: 648534.607619 wlan0.A[940179] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648534.607633]: 648534.607633 wlan0.A[940180] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648534.607671]: 648534.607671 wlan0.A[940181] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.607681]: 648534.607681 wlan0.A[940182] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.667624]: 648534.667622 wlan0.A[940183] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648534.667647]: 648534.667647 wlan0.A[940184] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648534.667713]: 648534.667713 wlan0.A[940185] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.667730]: 648534.667729 wlan0.A[940186] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.667770]: 648534.667770 wlan0.A[940187] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648534.667783]: 648534.667783 wlan0.A[940188] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648534.766053]: 648534.766052 wlan0.A[940189] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648534.766091]: 648534.766091 wlan0.A[940190] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648534.766160]: 648534.766160 wlan0.A[940191] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648534.766175]: 648534.766174 wlan0.A[940192] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648534.766211]: 648534.766210 wlan0.A[940193] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648534.766223]: 648534.766223 wlan0.A[940194] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648534.769930]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648534.769942]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648534.769952]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648534.769957]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648535.009464]: 648535.009463 wlan0.A[940195] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.009504]: 648535.009504 wlan0.A[940196] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.009588]: 648535.009588 wlan0.A[940197] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.009605]: 648535.009605 wlan0.A[940198] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.009644]: 648535.009644 wlan0.A[940199] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648535.009657]: 648535.009657 wlan0.A[940200] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648535.263262]: 648535.263261 wlan0.A[940201] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.263298]: 648535.263297 wlan0.A[940202] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.263382]: 648535.263382 wlan0.A[940203] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648535.263395]: 648535.263395 wlan0.A[940204] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648535.263431]: 648535.263431 wlan0.A[940205] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.263444]: 648535.263444 wlan0.A[940206] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.427031]: 648535.427030 wlan0.A[940207] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.427081]: 648535.427081 wlan0.A[940208] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.427187]: 648535.427187 wlan0.A[940209] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.427200]: 648535.427200 wlan0.A[940210] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.427242]: 648535.427242 wlan0.A[940211] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.427255]: 648535.427255 wlan0.A[940212] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.545730]: 648535.545729 wlan0.A[940213] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.545766]: 648535.545765 wlan0.A[940214] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.545847]: 648535.545847 wlan0.A[940215] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648535.545860]: 648535.545860 wlan0.A[940216] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648535.545898]: 648535.545898 wlan0.A[940217] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.545909]: 648535.545909 wlan0.A[940218] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648535.585071]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:554649
+[648535.588468]: LQM-WIFI:  (HighBand) rxToss=3 rxLastTossRsn=0 rxNoFrag=0 rxNoCmplId=0 rxNoHaddr=0 rxMulti=0 rxUndec=0
+
+[648535.588484]: LQM-WIFI:  (HighBand) rxCrsGlitch=29 rxBphyCrsGlitch=0 rxStart=345 rxBadPLCP=0 rxBphyBadPLCP=0 rxBadFCS=0 rxFifo0Ovfl=0 rxFifo1Ovfl=0 rx_nobuf=0 rxAnyErr=51 rxResponseTimeout=1 rxNoDelim=2 rxFrmTooLong=0 rxFrmTooShort=0
+
+[648535.588494]: LQM-WIFI: (HighBand) txRTSFrm=20 txRTSFail=0 rxCTSUcast=20 rxRTSUcast=15 txCTSFrm=15 txAMPDU=21 rxBACK=20 txPhyError=0 txAllFrm=210 txMPDU=0 txUcast=93 rxACKUcast=72 OfdmDesense 0 dB
+
+[648535.588502]: LQM-WIFI: (HighBand) rxBeaconMbss=29 rxBeaconObss=0 rxDataUcastMbss=18 rxMgmtUcastMbss=0 rxCNTRLUcast=127 txACKFrm=0 txBACK=14 ctxFifoFull=0 ctxFifo2Full=0 rxDataMcast=3 rxMgmtMcast=29
+
+[648535.588511]: LQM-WIFI: RX AMPDU (HighBand) rxAmpdu=14 txBACK(Ucode)=14 rxMpduInAmpdu=18 rxholes=0 rxdup=0 rxstuck=0 rxoow=0 rxoos=0 rxaddbareq=0 txaddbaresp=0 rxbar=0 txdelba=0 rxdelba=0 rxQueued=0 rxRetryNoBA=0
+
+[648535.588559]: LQM-WIFI: WME RX MPDUs (rxPER 0 %) in tids 0:18, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0
+
+[648535.594176]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(71 %) / 27(14 %) / 43(4 %) / 226(9 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+
+[648535.594210]: LQM-WIFI-CT: rssi=-40(-40 -44) snr=35 bcn=30(49) txFrames=17 txRetry=1 txRate=907360 rxFrames=14 rxRetry=1 rxRate=1134230 rxToss=3
+[648535.716095]: 648535.716093 wlan0.A[940219] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.716144]: 648535.716144 wlan0.A[940220] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.716244]: 648535.716244 wlan0.A[940221] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648535.716259]: 648535.716259 wlan0.A[940222] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648535.716299]: 648535.716299 wlan0.A[940223] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.716311]: 648535.716311 wlan0.A[940224] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.771182]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648535.771201]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648535.771212]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648535.771219]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648535.771248]: com.apple.p2p: AWDLStateDump: AWDL up time: 556 Secs, B6:80:AB:97:3C:E9 peers:1, cached:0(0), rtg(0), <SDB: TP-Link_1F04_5G:(D8:07:B6:47:1F:02)  36, infraRT:No, country:JP>
+[648535.771263]: com.apple.p2p: AWDLStateDump: Services[Valid 2 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:2 ]
+[648535.771273]: com.apple.p2p: AWDLStateDump: AirPlay:0 AirPlayToHT:0 AirPlayOverInfra:0 SideCar:0 SideCarSender:0 SideCarPeer:0 TimeSync:0 HighThroughput:0
+[648535.771279]: com.apple.p2p: AWDLStateDump: AWDL enabled with no data connection from 245 seconds  com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648535.771299]: com.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648535.771317]: com.apple.p2p.stats: AFSPerSlot : [0 0 0 0] [0 0 0 0] [0 0 0 0] [0 0 0 0]
+[648535.771323]: com.apple.p2p.stats: AFsPerSignal (batchSize -1) : 0 <= 1, 0 <= 10, 0 <= 30, 0 <= 50, 0 <= 100, 0 > 100
+[648535.771328]: com.apple.p2p.stats: TimePerSignal : 0 < 250uSec, 0 250-500uSec, 0 500-1000uSec, 0 1000-2000uSec, 0 > 2000uSeccom.apple.p2p.stats: TimePerAF : 0 < 100uSec, 0 100-250uSec, 0 250-500uSec, 0 500-1000uSec, 0 > 1000uSeccom.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648535.771350]: com.apple.wifi: LQM-WiFi:AWDL State #14 Low Power(4)  DutyCycle 34  StateDuration 8lu.013s[63172.822 - 63180.835]   StateComplete  1
+[648535.771356]: com.apple.wifi: LQM-WiFi:AWDL State #15 unknown(50)  DutyCycle 76  StateDuration 1lu.008s[63180.835 - 63181.844]   StateComplete  1
+[648535.771362]: com.apple.wifi: LQM-WiFi:AWDL State #16 Low Power(4)  DutyCycle 34  StateDuration 3lu.003s[63181.844 - 0.000]   StateComplete  0
+[648535.771368]: com.apple.wifi: LQM-WiFi:AWDL Active Time 2127ms(42%) 5.014s[63179.834s - 63184.848s]
+[648535.840042]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<31 0 0 0 0 0 0 0 0 0 0> (5002ms)
+
+[648535.840070]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+
+[648535.840081]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+
+[648535.840092]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5002ms)
+
+[648535.840176]: LQM-WIFI: L3 Control VO TX(D8:07:B6:47:1F:02) Success=0 NoACK=0 Expired=0 OtherErr=0
+[648535.840187]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<4 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648535.840199]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648535.840212]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648535.840222]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648535.938500]: 648535.938499 wlan0.A[940225] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648535.938556]: 648535.938556 wlan0.A[940226] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648535.938652]: 648535.938652 wlan0.A[940227] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648535.938665]: 648535.938665 wlan0.A[940228] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648535.938706]: 648535.938706 wlan0.A[940229] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648535.938719]: 648535.938719 wlan0.A[940230] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.137188]: 648536.137187 wlan0.A[940231] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648536.137228]: 648536.137228 wlan0.A[940232] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648536.137316]: 648536.137316 wlan0.A[940233] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.137330]: 648536.137330 wlan0.A[940234] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.137366]: 648536.137366 wlan0.A[940235] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648536.137376]: 648536.137376 wlan0.A[940236] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648536.312975]: 648536.312975 wlan0.A[940237] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.313031]: 648536.313030 wlan0.A[940238] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.313124]: 648536.313124 wlan0.A[940239] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.313136]: 648536.313136 wlan0.A[940240] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.313175]: 648536.313175 wlan0.A[940241] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648536.313188]: 648536.313188 wlan0.A[940242] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648536.447030]: 648536.447029 wlan0.A[940243] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.447092]: 648536.447092 wlan0.A[940244] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.447193]: 648536.447192 wlan0.A[940245] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.447208]: 648536.447208 wlan0.A[940246] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.447258]: 648536.447258 wlan0.A[940247] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.447269]: 648536.447269 wlan0.A[940248] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.564541]: 648536.564540 wlan0.A[940249] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.564587]: 648536.564587 wlan0.A[940250] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.564670]: 648536.564670 wlan0.A[940251] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.564684]: 648536.564684 wlan0.A[940252] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.564723]: 648536.564723 wlan0.A[940253] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.564735]: 648536.564735 wlan0.A[940254] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648536.633679]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:555698
+[648536.704610]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63185.781ms HC 0 met 510 my met 510	
+[648536.704661]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8081 HC:0 RMet:510 SLFC:8081 SMet:510] 
+[648536.765147]: 648536.765146 wlan0.A[940255] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.765195]: 648536.765195 wlan0.A[940256] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.765286]: 648536.765286 wlan0.A[940257] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648536.765300]: 648536.765300 wlan0.A[940258] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648536.765343]: 648536.765342 wlan0.A[940259] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648536.765357]: 648536.765356 wlan0.A[940260] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648536.772594]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648536.772610]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648536.772621]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648536.772627]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648536.963485]: 648536.963483 wlan0.A[940261] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648536.963523]: 648536.963522 wlan0.A[940262] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648536.963603]: 648536.963603 wlan0.A[940263] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648536.963617]: 648536.963617 wlan0.A[940264] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648536.963655]: 648536.963655 wlan0.A[940265] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648536.963667]: 648536.963666 wlan0.A[940266] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.160697]: 648537.160696 wlan0.A[940267] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648537.160734]: 648537.160733 wlan0.A[940268] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648537.160805]: 648537.160805 wlan0.A[940269] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.160818]: 648537.160818 wlan0.A[940270] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.160856]: 648537.160856 wlan0.A[940271] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648537.160866]: 648537.160866 wlan0.A[940272] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648537.358559]: 648537.358559 wlan0.A[940273] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.358623]: 648537.358623 wlan0.A[940274] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.358710]: 648537.358710 wlan0.A[940275] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648537.358726]: 648537.358726 wlan0.A[940276] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648537.358764]: 648537.358764 wlan0.A[940277] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648537.358775]: 648537.358775 wlan0.A[940278] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648537.576960]: 648537.576959 wlan0.A[940279] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648537.577012]: 648537.577012 wlan0.A[940280] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648537.577110]: 648537.577110 wlan0.A[940281] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.577123]: 648537.577123 wlan0.A[940282] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.577164]: 648537.577164 wlan0.A[940283] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648537.577175]: 648537.577175 wlan0.A[940284] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648537.680727]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:556745
+[648537.753179]: 648537.753179 wlan0.A[940285] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.753233]: 648537.753233 wlan0.A[940286] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.753329]: 648537.753329 wlan0.A[940287] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648537.753347]: 648537.753347 wlan0.A[940288] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648537.753385]: 648537.753385 wlan0.A[940289] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.753397]: 648537.753397 wlan0.A[940290] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.775473]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648537.775491]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648537.775501]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648537.775510]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648537.915990]: 648537.915989 wlan0.A[940291] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648537.916028]: 648537.916028 wlan0.A[940292] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648537.916110]: 648537.916109 wlan0.A[940293] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648537.916142]: 648537.916142 wlan0.A[940294] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648537.916180]: 648537.916180 wlan0.A[940295] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648537.916190]: 648537.916190 wlan0.A[940296] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648537.924619]: compat_ifmu_ulist: anpi1 copyin() error 14compat_ifmu_ulist: anpi0 copyin() error 14compat_ifmu_ulist: en3 copyin() error 14compat_ifmu_ulist: en4 copyin() error 14compat_ifmu_ulist: en1 copyin() error 14compat_ifmu_ulist: en2 copyin() error 14compat_ifmu_ulist: ap1 copyin() error 14compat_ifmu_ulist: en0 copyin() error 14compat_ifmu_ulist: awdl0 copyin() error 14compat_ifmu_ulist: llw0 copyin() error 14compat_ifmu_ulist: anpi1 copyin() error 14compat_ifmu_ulist: anpi0 copyin() error 14compat_ifmu_ulist: en3 copyin() error 14compat_ifmu_ulist: en4 copyin() error 14compat_ifmu_ulist: en1 copyin() error 14compat_ifmu_ulist: en2 copyin() error 14compat_ifmu_ulist: ap1 copyin() error 14compat_ifmu_ulist: en0 copyin() error 14compat_ifmu_ulist: awdl0 copyin() error 14compat_ifmu_ulist: llw0 copyin() error 14648538.089025 wlan0.A[940297] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.089069]: 648538.089069 wlan0.A[940298] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.089159]: 648538.089159 wlan0.A[940299] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.089176]: 648538.089176 wlan0.A[940300] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.089205]: 648538.089204 wlan0.A[940301] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.089213]: 648538.089213 wlan0.A[940302] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.255399]: 648538.255398 wlan0.A[940303] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648538.255432]: 648538.255431 wlan0.A[940304] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648538.255502]: 648538.255502 wlan0.A[940305] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.255515]: 648538.255515 wlan0.A[940306] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.255550]: 648538.255550 wlan0.A[940307] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.255561]: 648538.255561 wlan0.A[940308] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.486365]: 648538.486365 wlan0.A[940309] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.486421]: 648538.486421 wlan0.A[940310] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.486518]: 648538.486518 wlan0.A[940311] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.486534]: 648538.486534 wlan0.A[940312] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.486573]: 648538.486573 wlan0.A[940313] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.486584]: 648538.486584 wlan0.A[940314] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.704917]: 648538.704916 wlan0.A[940315] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.704969]: 648538.704969 wlan0.A[940316] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.705069]: 648538.705069 wlan0.A[940317] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.705085]: 648538.705085 wlan0.A[940318] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.705125]: 648538.705125 wlan0.A[940319] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.705139]: 648538.705139 wlan0.A[940320] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.729391]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:557794
+[648538.776759]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648538.776784]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648538.776794]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648538.776802]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648538.829734]: 648538.829733 wlan0.A[940321] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.829764]: 648538.829764 wlan0.A[940322] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648538.829841]: 648538.829841 wlan0.A[940323] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648538.829854]: 648538.829854 wlan0.A[940324] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648538.829890]: 648538.829890 wlan0.A[940325] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648538.829900]: 648538.829900 wlan0.A[940326] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.105904]: 648539.105903 wlan0.A[940327] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.105968]: 648539.105968 wlan0.A[940328] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.106056]: 648539.106056 wlan0.A[940329] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648539.106068]: 648539.106068 wlan0.A[940330] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648539.106106]: 648539.106106 wlan0.A[940331] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.106117]: 648539.106117 wlan0.A[940332] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.216145]: 648539.216144 wlan0.A[940333] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.216190]: 648539.216189 wlan0.A[940334] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.216270]: 648539.216270 wlan0.A[940335] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648539.216286]: 648539.216286 wlan0.A[940336] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648539.216330]: 648539.216330 wlan0.A[940337] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.216347]: 648539.216347 wlan0.A[940338] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.299272]: LQM-WIFI: WeightAvgLQM rssi=-41 snr=34 txRate=960730 rxRate=1200950
+
+[648539.481046]: arm64e_plugin_host: running binary "sudo" in keys-off mode due to entitlement: com.apple.private.security.clear-library-validation648539.494608 wlan0.A[940339] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648539.494648]: 648539.494648 wlan0.A[940340] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648539.494733]: 648539.494732 wlan0.A[940341] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.494749]: 648539.494748 wlan0.A[940342] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.494787]: 648539.494787 wlan0.A[940343] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.494799]: 648539.494798 wlan0.A[940344] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.501744]: LQM-WIFI-PHY: Version = 3 , ChanSpec  36 5 80MHz l, slice=0 phyWdg=1223 noiseReq=46404 noiseCrsbit=9007 noiseApply=12618 calCnt=3106 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=71 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648539.501756]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=34805
+[648539.501761]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x1eb0 preemptStatus2=0x31cc preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=5 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648539.501765]: LQM-WIFI-PHY: ChanSpec  36 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec  44 5 80MHz l, slice=0 phyWdg=26828 noiseReq=3714 noiseCrsbit=3230 noiseApply=2363 calCnt=135 crsminPwrIdx=11 featureflag=0x00e4 chanSwitchCnt=71 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648539.501770]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=5 gbdOfdmSleepCnt=1 homeChan=0x2a deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=6375
+[648539.501778]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 weakestRssi=0 edThreshold=-74 edCrsStatus=0x0000 preemptStatus1=0x7db0 preemptStatus2=0x13de preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=5 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648539.501781]: LQM-WIFI-PHY: ChanSpec  44 5 80MHz l, slice=0 ccaDurMS=1000 ccaEdDuration=0 crsminPwr0=-90 noiseLevelInst0=-91 crsminPwr1=-91 noiseLevelInst1=-92LQM-WIFI-PHY: Version = 3 , ChanSpec   6 2 20MHz n, slice=1 phyWdg=26789 noiseReq=26820 noiseCrsbit=665 noiseApply=683 calCnt=157 crsminPwrIdx=14 featureflag=0x00e0 chanSwitchCnt=0 chipTemp=23 femTemp=-50 rxChain=3 txChain=3
+[648539.501786]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ofdmDesense=0 bphyDesense=0 gbdBphySleepCnt=0 gbdOfdmSleepCnt=0 homeChan=0x6 deafCnt=0 btcxMode=0 ltecxMode=0 phyCalDisable=0, scca_txstall_precondition=0, noiseMmtOverdue=0 crsminPwrApplyCnt=730
+[648539.501789]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 weakestRssi=0 edThreshold=-64 edCrsStatus=0x0000 preemptStatus1=0x8cc0 preemptStatus2=0x0db0 preemptStatus3=0x0000 preemptStatus4=0x0000 glitch=1 bphyGlitch=0 badplcp=0 bphyBadplcp=0
+[648539.501793]: LQM-WIFI-PHY: ChanSpec   6 2 20MHz n, slice=1 ccaDurMS=1000 ccaEdDuration=3 crsminPwr0=-88 noiseLevelInst0=-89 crsminPwr1=-91 noiseLevelInst1=-91LQM-WIFI: (HighBand)  rxNotPrimary20s=68 ucodeLateDrop=0 rxInvalidUcodeLateWrongMACPHY=0 rxLate30us=0 rxLegacyFrmInvalid=0 txSifsErr=0 ooseqMacSusp=0
+[648539.513200]: LQM-WIFI: Stats9: btDur=111ms(2%) status=0x105 reqTypeMap=0xb00062 req=172 gnt=102 abort=5 rx1ovfl=0 latency=4 pmAttempt=0 sucPM=0 sucCTS2S=0 wlanTXPreempt=139 wlanRXPreempt=0 apTXafterPM=0 gntAudio=0 denyAudio=0 gntA2DP=0 denyA2DP=0
+
+[648539.513212]: LQM-WIFI: Stats9: CrtPriCnt=154 PriCnt=1 gntSniff=22 denySniff=16 antGrant0~10ms=195 antGrant10~30ms=2 antGrant30~60ms=0 antGrant>60ms=0 APLeakiness=0 rr_cnt=0 rr_succ_cnt=0 [5007ms]
+
+[648539.523323]: IOConsoleUsers: time(0) 0->0, lin 1, llk 0, 
+[648539.523364]: IOConsoleUsers: gIOScreenLockState 1, hs 0, bs 0, now 0, sm 0x0
+[648539.525252]: Couldn't alloc class "AppleKeyStoreTest"
+[648539.531134]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[648539.626066]: 648539.626066 wlan0.A[940345] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.626122]: 648539.626122 wlan0.A[940346] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.626226]: 648539.626226 wlan0.A[940347] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.626242]: 648539.626242 wlan0.A[940348] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.626283]: 648539.626283 wlan0.A[940349] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.626294]: 648539.626294 wlan0.A[940350] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.778075]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648539.778102]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648539.778113]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648539.778121]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648539.779338]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:558844
+[648539.779450]: 648539.779449 wlan0.A[940351] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648539.779478]: 648539.779478 wlan0.A[940352] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648539.779559]: 648539.779559 wlan0.A[940353] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648539.779573]: 648539.779573 wlan0.A[940354] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648539.779624]: 648539.779624 wlan0.A[940355] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.779636]: 648539.779636 wlan0.A[940356] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.850332]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63188.927ms HC 0 met 510 my met 510	
+[648539.850363]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8082 HC:0 RMet:510 SLFC:8082 SMet:510] 
+[648539.981476]: 648539.981475 wlan0.A[940357] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648539.981512]: 648539.981512 wlan0.A[940358] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648539.981597]: 648539.981597 wlan0.A[940359] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648539.981610]: 648539.981610 wlan0.A[940360] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648539.981651]: 648539.981651 wlan0.A[940361] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648539.981663]: 648539.981663 wlan0.A[940362] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648540.232812]: 648540.232811 wlan0.A[940363] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648540.232862]: 648540.232862 wlan0.A[940364] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648540.232953]: 648540.232953 wlan0.A[940365] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648540.232970]: 648540.232970 wlan0.A[940366] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648540.233018]: 648540.233018 wlan0.A[940367] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648540.233031]: 648540.233031 wlan0.A[940368] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648540.342681]: 648540.342677 wlan0.A[940369] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648540.342721]: 648540.342720 wlan0.A[940370] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648540.342801]: 648540.342801 wlan0.A[940371] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648540.342816]: 648540.342816 wlan0.A[940372] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648540.342864]: 648540.342864 wlan0.A[940373] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648540.342878]: 648540.342877 wlan0.A[940374] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648540.599619]: LQM-WIFI:  (HighBand) rxToss=16 rxLastTossRsn=0 rxNoFrag=0 rxNoCmplId=0 rxNoHaddr=0 rxMulti=2 rxUndec=0
+
+[648540.599646]: LQM-WIFI:  (HighBand) rxCrsGlitch=35 rxBphyCrsGlitch=0 rxStart=497 rxBadPLCP=0 rxBphyBadPLCP=0 rxBadFCS=1 rxFifo0Ovfl=0 rxFifo1Ovfl=0 rx_nobuf=0 rxAnyErr=97 rxResponseTimeout=0 rxNoDelim=29 rxFrmTooLong=0 rxFrmTooShort=1
+
+[648540.599667]: LQM-WIFI: (HighBand) txRTSFrm=24 txRTSFail=0 rxCTSUcast=24 rxRTSUcast=23 txCTSFrm=23 txAMPDU=24 rxBACK=24 txPhyError=0 txAllFrm=243 txMPDU=1 txUcast=108 rxACKUcast=84 OfdmDesense 0 dB
+
+[648540.599674]: LQM-WIFI: (HighBand) rxBeaconMbss=32 rxBeaconObss=0 rxDataUcastMbss=28 rxMgmtUcastMbss=0 rxCNTRLUcast=155 txACKFrm=0 txBACK=23 ctxFifoFull=0 ctxFifo2Full=0 rxDataMcast=18 rxMgmtMcast=32
+
+[648540.599683]: LQM-WIFI: RX AMPDU (HighBand) rxAmpdu=23 txBACK(Ucode)=23 rxMpduInAmpdu=28 rxholes=0 rxdup=0 rxstuck=0 rxoow=0 rxoos=0 rxaddbareq=0 txaddbaresp=0 rxbar=0 txdelba=0 rxdelba=0 rxQueued=0 rxRetryNoBA=0
+
+[648540.599734]: LQM-WIFI: WME RX MPDUs (rxPER 0 %) in tids 0:30, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0
+
+[648540.604981]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(74 %) / 29(16 %) / 66(9 %) / 0(0 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+
+[648540.605020]: LQM-WIFI-CT: rssi=-40(-40 -43) snr=35 bcn=31(48) txFrames=26 txRetry=0 txRate=243750 rxFrames=30 rxRetry=1 rxRate=1200950 rxToss=16
+[648540.641627]: 648540.641627 wlan0.A[940375] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648540.641681]: 648540.641681 wlan0.A[940376] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648540.641783]: 648540.641783 wlan0.A[940377] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648540.641800]: 648540.641800 wlan0.A[940378] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648540.641845]: 648540.641845 wlan0.A[940379] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648540.641857]: 648540.641856 wlan0.A[940380] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648540.752352]: 648540.752351 wlan0.A[940381] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648540.752394]: 648540.752393 wlan0.A[940382] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648540.752477]: 648540.752476 wlan0.A[940383] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648540.752491]: 648540.752491 wlan0.A[940384] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648540.752539]: 648540.752538 wlan0.A[940385] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648540.752551]: 648540.752551 wlan0.A[940386] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648540.779399]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648540.779419]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648540.779428]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648540.779436]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648540.779441]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:unknown and force:NO, AWDL-restore:No
+[648540.779673]: com.apple.p2p: AWDL ON:[infra(36) 24%] [sdb:0] (6/44/44) [44 44 44 44 44 44 0 0 6 44 44 44 44 44 0 0] unknown
+[648540.779811]: com.apple.p2p: AWDLStateDump: AWDL up time: 561 Secs, B6:80:AB:97:3C:E9 peers:1, cached:0(0), rtg(0), <SDB: TP-Link_1F04_5G:(D8:07:B6:47:1F:02)  36, infraRT:No, country:JP>
+[648540.779828]: com.apple.p2p: AWDLStateDump: Services[Valid 2 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:2 ]
+[648540.779833]: com.apple.p2p: AWDLStateDump: AirPlay:0 AirPlayToHT:0 AirPlayOverInfra:0 SideCar:0 SideCarSender:0 SideCarPeer:0 TimeSync:0 HighThroughput:0
+[648540.779839]: com.apple.p2p: AWDLStateDump: AWDL enabled with no data connection from 250 seconds  com.apple.p2p: AWDL ON:[infra(36) 24%] [sdb:0] (6/44/44) [44 44 44 44 44 44 0 0 6 44 44 44 44 44 0 0] unknown
+[648540.779854]: com.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648540.779860]: com.apple.p2p.stats: AFSPerSlot : [0 0 0 0] [0 0 0 0] [0 0 0 0] [0 0 0 0]
+[648540.779865]: com.apple.p2p.stats: AFsPerSignal (batchSize -1) : 0 <= 1, 0 <= 10, 0 <= 30, 0 <= 50, 0 <= 100, 0 > 100
+[648540.779870]: com.apple.p2p.stats: TimePerSignal : 0 < 250uSec, 0 250-500uSec, 0 500-1000uSec, 0 1000-2000uSec, 0 > 2000uSeccom.apple.p2p.stats: TimePerAF : 0 < 100uSec, 0 100-250uSec, 0 250-500uSec, 0 500-1000uSec, 0 > 1000uSeccom.apple.p2p.stats: -------------------------------------------------------------------------------------------------------------
+[648540.779891]: com.apple.wifi: LQM-WiFi:AWDL State #15 Low Power(4)  DutyCycle 34  StateDuration 8lu.012s[63181.844 - 63189.856]   StateComplete  1
+[648540.779897]: com.apple.wifi: LQM-WiFi:AWDL State #16 unknown(50)  DutyCycle 76  StateDuration 0lu.000s[63189.856 - 0.000]   StateComplete  0
+[648540.779904]: com.apple.wifi: LQM-WiFi:AWDL Active Time 1702ms(33%) 5.008s[63184.848s - 63189.856s]
+[648540.827813]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:559892
+[648540.841284]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<16 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648540.841301]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648540.841313]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648540.841323]: LQM-WIFI: TX(D8:07:B6:47:1F:02) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<1 0 0 0 0 0 0 0 0 0 0> (5001ms)
+
+[648540.841371]: LQM-WIFI: L3 Control VO TX(D8:07:B6:47:1F:02) Success=1 NoACK=0 Expired=0 OtherErr=0
+[648540.841383]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648540.841396]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648540.841407]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648540.841417]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[648541.359246]: 648541.359246 wlan0.A[940387] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648541.359308]: 648541.359308 wlan0.A[940388] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648541.359418]: 648541.359418 wlan0.A[940389] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648541.359434]: 648541.359434 wlan0.A[940390] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648541.359476]: 648541.359476 wlan0.A[940391] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648541.359487]: 648541.359487 wlan0.A[940392] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648541.752217]: 648541.752216 wlan0.A[940393] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648541.752269]: 648541.752269 wlan0.A[940394] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648541.752356]: 648541.752356 wlan0.A[940395] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648541.752371]: 648541.752371 wlan0.A[940396] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648541.752409]: 648541.752409 wlan0.A[940397] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 805306368
+[648541.752424]: 648541.752424 wlan0.A[940398] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 805306368
+[648541.781128]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648541.781145]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648541.781154]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:unknown and force:NO, AWDL-restore:No
+[648541.781161]: com.apple.p2p: monitorAWDLState Moving to LP from Long Discovery 
+[648541.781166]: com.apple.p2p: setScheduleState[9592]: reason:IdleTimeout sc:Low Power and force:NO, AWDL-restore:No
+[648541.781377]: com.apple.p2p: AWDL ON:[infra(36) 66%] [sdb:0] (6/44/44) [44 0 44 0 0 0 0 0 6 44 44 0 0 0 0 0] Low Power
+[648541.891288]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:560956
+[648541.973286]: 648541.973285 wlan0.A[940399] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648541.973324]: 648541.973324 wlan0.A[940400] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648541.973404]: 648541.973404 wlan0.A[940401] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648541.973417]: 648541.973417 wlan0.A[940402] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648541.973453]: 648541.973453 wlan0.A[940403] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648541.973464]: 648541.973464 wlan0.A[940404] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648542.078257]: 648542.078256 wlan0.A[940405] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.078298]: 648542.078298 wlan0.A[940406] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.078389]: 648542.078389 wlan0.A[940407] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.078402]: 648542.078402 wlan0.A[940408] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.078439]: 648542.078439 wlan0.A[940409] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648542.078449]: 648542.078449 wlan0.A[940410] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648542.280233]: 648542.280232 wlan0.A[940411] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.280276]: 648542.280275 wlan0.A[940412] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.280366]: 648542.280366 wlan0.A[940413] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.280380]: 648542.280380 wlan0.A[940414] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.280422]: 648542.280422 wlan0.A[940415] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.280436]: 648542.280436 wlan0.A[940416] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.390690]: 648542.390687 wlan0.A[940417] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.390729]: 648542.390729 wlan0.A[940418] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.390816]: 648542.390816 wlan0.A[940419] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648542.390830]: 648542.390830 wlan0.A[940420] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648542.390868]: 648542.390868 wlan0.A[940421] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.390879]: 648542.390878 wlan0.A[940422] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.467629]: 648542.467628 wlan0.A[940423] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.467678]: 648542.467678 wlan0.A[940424] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.467772]: 648542.467771 wlan0.A[940425] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.467785]: 648542.467785 wlan0.A[940426] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.467822]: 648542.467822 wlan0.A[940427] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.467833]: 648542.467833 wlan0.A[940428] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.662058]: 648542.662057 wlan0.A[940429] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648542.662110]: 648542.662110 wlan0.A[940430] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648542.662188]: 648542.662188 wlan0.A[940431] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.662203]: 648542.662203 wlan0.A[940432] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.662241]: 648542.662241 wlan0.A[940433] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.662252]: 648542.662252 wlan0.A[940434] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.789688]: com.apple.p2p: monitorAWDLState[8844] : Active Sockets true ValidSvc 2 NumAirplay 0
+[648542.789714]: com.apple.p2p: monitorAWDLState[8927]: BonJourTrig 1 ValidSvc 2 RTApp 0 TSReq 0 HasActAirDrop 0 SocketsActive 1 
+[648542.789726]: com.apple.p2p: setScheduleState[9592]: reason:unknown sc:Low Power and force:NO, AWDL-restore:No
+[648542.789735]: com.apple.p2p: monitorAWDLState Moving to Long Discovery From LP 
+[648542.894559]: 648542.894558 wlan0.A[940435] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.894611]: 648542.894611 wlan0.A[940436] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.894717]: 648542.894717 wlan0.A[940437] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.894730]: 648542.894729 wlan0.A[940438] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.894769]: 648542.894769 wlan0.A[940439] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648542.894780]: 648542.894780 wlan0.A[940440] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648542.924825]: com.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:0 option:0 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:0 fastDiscoveryOnSince:561989
+[648542.989353]: com.apple.p2p: programChipWithNewMaster: Programming new Mst: B6:80:AB:97:3C:E9 at 63192.066ms HC 0 met 510 my met 510	
+[648542.989398]: com.apple.p2p: runElection: ElectionParamsChanged - Prog (F:0, 0) New P:B6:80:AB:97:3C:E9 R:B6:80:AB:97:3C:E9 [RLFC:8083 HC:0 RMet:510 SLFC:8083 SMet:510] 
+[648542.998079]: 648542.998078 wlan0.A[940441] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648542.998118]: 648542.998118 wlan0.A[940442] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648542.998195]: 648542.998195 wlan0.A[940443] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648542.998207]: 648542.998207 wlan0.A[940444] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648542.998245]: 648542.998245 wlan0.A[940445] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648542.998258]: 648542.998257 wlan0.A[940446] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648543.213302]: 648543.213302 wlan0.A[940447] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648543.213344]: 648543.213344 wlan0.A[940448] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648543.213432]: 648543.213432 wlan0.A[940449] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 268435456
+[648543.213445]: 648543.213445 wlan0.A[940450] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 268435456
+[648543.213488]: 648543.213488 wlan0.A[940451] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32768
+[648543.213499]: 648543.213499 wlan0.A[940452] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32768
+[648543.414984]: 648543.414980 wlan0.A[940453] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648543.415028]: 648543.415028 wlan0.A[940454] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648543.415124]: 648543.415123 wlan0.A[940455] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 32769
+[648543.415141]: 648543.415141 wlan0.A[940456] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 32769
+[648543.415180]: 648543.415180 wlan0.A[940457] [ik] addDictionaryChannelReasonForJoining@3401:Out of range reasonForJoining 536870912
+[648543.415191]: 648543.415191 wlan0.A[940458] [ik] addDictionaryChannelReasonForLeaving@3586:Out of range reasonForLeaving 536870912
+[648543.447864]: IOConsoleUsers: time(0) 0->0, lin 1, llk 0, 
+[648543.447903]: IOConsoleUsers: gIOScreenLockState 1, hs 0, bs 0, now 0, sm 0x0
+[648543.449164]: Couldn't alloc class "AppleKeyStoreTest"
